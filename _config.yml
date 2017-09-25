@@ -2,7 +2,7 @@ title: Airbnb JavaScript Style Guide
 description: A mostly reasonable approach to JavaScript
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
